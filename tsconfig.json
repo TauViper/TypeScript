@@ -93,6 +93,6 @@
     "skipLibCheck": true /* Skip type checking all .d.ts files. */
   },
   "files": [
-    "src/Playground.ts"
+    "src/index.ts"
   ]
 }

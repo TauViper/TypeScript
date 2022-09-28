@@ -1,4 +1,4 @@
-type FIXME = string
+type FIXME = any
 
 type Order =
   | {
