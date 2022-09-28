@@ -1,4 +1,4 @@
-type FIXME = any
+type FIXME = Order['state'];
 
 type Order =
   | {
