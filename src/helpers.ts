@@ -1,5 +1,5 @@
-import { Book } from './book.js';
-import { BueCallback } from './types.js';
+import { Book } from './book';
+import { BueCallback } from './types';
 
 export function serialize(value: unknown) {
   if (value === null) {
